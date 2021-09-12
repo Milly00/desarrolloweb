@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: rgb(43, 105, 43);
+    text-align: center;
+    margin: 20px;
+}
+
+th {
+    color: rgb(43, 105, 43);
+}
+
+.logo {
+    width: 50%;
+}
+
+.navbar-brand {
+    width: 40%;
+}
